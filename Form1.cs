@@ -90,5 +90,11 @@ namespace Saints_Row_Tool
                 }
             }
         }
+
+        private void checkBox4_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox4.Checked)
+                xboxConsole.WriteFloat(0x827F0BB0, 999999);
+        }
     }
 }
