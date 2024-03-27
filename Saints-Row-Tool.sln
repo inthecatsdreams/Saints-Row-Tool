@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saints-Row-Tool", "Saints-Row-Tool.csproj", "{72D09AAE-F166-4E9F-A060-1C3B178BA5A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{956FF569-1D44-4091-97A9-83B758B4E8AF}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\XboxDev\References\XboxCore.Xbox.Connection\JRPC.cs = ..\..\..\Desktop\XboxDev\References\XboxCore.Xbox.Connection\JRPC.cs
+		..\..\..\Desktop\XboxDev\References\XRPCLib\XRPC.cs = ..\..\..\Desktop\XboxDev\References\XRPCLib\XRPC.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72D09AAE-F166-4E9F-A060-1C3B178BA5A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D09AAE-F166-4E9F-A060-1C3B178BA5A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D09AAE-F166-4E9F-A060-1C3B178BA5A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D09AAE-F166-4E9F-A060-1C3B178BA5A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {799D7E39-016C-4A85-8461-574103058642}
+	EndGlobalSection
+EndGlobal
